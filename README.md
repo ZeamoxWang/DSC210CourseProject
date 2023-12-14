@@ -23,3 +23,4 @@
 
 - Markov Simulation
 
+![MS](.\\results\\1d_gaussian_approx_vs_samplesize.png "1d Gaussian Approximation vs Samplesize")
