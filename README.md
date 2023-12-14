@@ -13,5 +13,11 @@
   - umap
   - matplotlib
   - seaborn
+  - numba
+  - array2gif
+  - IPython.display
 
-* Open Markov Chain, MCMC, .ipynb and run all the cells of the notebook.
+* Open Markov Chain, MCMC, ising.ipynb and run all the cells of the notebook.
+
+### Outcomes:
+
