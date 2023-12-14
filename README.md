@@ -21,7 +21,7 @@
 
 ### Results:
 
-- Markov Simulation
+- Markov Chain Monte Carlo Simulations
 1D Gaussian Approximation vs Samplesize:
 <img width="828" src="https://github.com/ZeamoxWang/DSC210CourseProject/blob/main/results/1d_gaussian_approx_vs_samplesize.png">
 2D Mixture Approximation vs Samplesize:
@@ -30,8 +30,10 @@ Convergence Time Across Distribution of Difference Dimensions:
 <img width="828" src="https://github.com/ZeamoxWang/DSC210CourseProject/blob/main/results/Convergence%20time%20across%20distributions%20of%20different%20dimensions.png">
 Approximation vs Distribution:
 <img width="828" src="https://github.com/ZeamoxWang/DSC210CourseProject/blob/main/results/approx_vs_dists.png">
-
+Convergence Time vs Distribution:
 <img width="828" src="https://github.com/ZeamoxWang/DSC210CourseProject/blob/main/results/converg_time_vs_dists.png">
+
+- Ising Simulations
 <img width="828" src="https://github.com/ZeamoxWang/DSC210CourseProject/blob/main/results/convergence.png">
 <img width="828" src="https://github.com/ZeamoxWang/DSC210CourseProject/blob/main/results/cumulant_ratio.png">
 <img width="828" src="https://github.com/ZeamoxWang/DSC210CourseProject/blob/main/results/cv_vs_t.png">
