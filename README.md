@@ -19,5 +19,7 @@
 
 * Open Markov Chain, MCMC, ising.ipynb and run all the cells of the notebook.
 
-### Outcomes:
+### Results:
+
+- Markov Simulation
 
